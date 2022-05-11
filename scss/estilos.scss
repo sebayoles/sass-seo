@@ -1,0 +1,20 @@
+// Variables
+$pesoparrafo: false;
+
+@import "footer";
+
+
+
+    .container{
+        p{
+            @if $pesoparrafo == false{
+                font-weight: 300;
+                color: aqua;
+                } 
+                @else{
+
+                    font-weight: 800;
+                    
+                }
+        }
+    }

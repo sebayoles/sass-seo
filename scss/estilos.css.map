@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACGA,AAAA,MAAM,CAAA;EACF,gBAAgB,EAJL,OAAe;EAK1B,KAAK,EAAC,IAAI;EACV,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,IAAI;CAUnB;;AAdD,AAOI,MAPE,CAOF,YAAY,CAAA;EACR,KAAK,EAVC,OAAO;EAWb,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG;EAChB,SAAS,EAAE,IAAI;CAElB;;ADTD,AACI,UADM,CACN,CAAC,CAAA;EAEO,WAAW,EAAE,GAAG;EAChB,KAAK,EAAE,IAAI;CAOlB",
+    "sources": [
+        "estilos.scss",
+        "_footer.scss"
+    ],
+    "names": [],
+    "file": "estilos.css"
+}
